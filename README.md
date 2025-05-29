@@ -125,7 +125,7 @@ Cart Page:
 
 ## 8. Especificações:
 - Documentação detalhada de componentes (estados: hover, active, focus, disabled; interações) e estilos será mantida no Figma e/ou em um guia de estilo complementar.
-- 
+
 - **Guia de estilo detalhado inclui:**
     - **Tipografia:**
         - **Fonte Principal para Títulos de Alto Impacto (Login):**
