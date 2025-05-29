@@ -71,14 +71,20 @@ Este repositório documenta o desenvolvimento do projeto "Bagaceira Games", um e
 ## Página do projeto no FIGMA Community:
 [![Figma badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1509320259054211679)
 
+## Página do projeto no FIGMA Community:
+[![Figma badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1509320259054211679)
 
-## Wireframe: Home Page
+## Wireframes
+
+Home Page:
+[![home page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/01_home_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
+
+LoginPage:
+[![cart page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/03_login_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
 
 
-## Wireframe: Login Page
-
-
-## Wireframe: Cart Page
+Cart Page:
+[![login page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/02_cart_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
 
 
 ## 6. Design System:
