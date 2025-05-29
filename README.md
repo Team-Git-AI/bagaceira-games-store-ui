@@ -67,9 +67,6 @@ Este repositório documenta o desenvolvimento do projeto "Bagaceira Games", um e
 - Elementos de interface incluídos: botões (primários, secundários, sociais), campos de formulário com ícones, cards de produto com tags de desconto, navegação (principal, secundária, breadcrumbs implícitos), modais (implícito para checkout), carrossel de mídia, checkboxes, barras de progresso para avaliações.
 - Princípios de hierarquia visual aplicados para guiar o usuário (tamanhos de fonte, cores de destaque, posicionamento).
 - Consistência mantida entre as telas.
-  
-## Página do projeto no FIGMA Community:
-[![Figma badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1509320259054211679)
 
 ## Página do projeto no FIGMA Community:
 [![Figma badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1509320259054211679)
@@ -79,13 +76,11 @@ Este repositório documenta o desenvolvimento do projeto "Bagaceira Games", um e
 Home Page:
 [![home page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/01_home_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
 
-LoginPage:
+Login Page:
 [![cart page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/03_login_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
-
 
 Cart Page:
 [![login page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/02_cart_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
-
 
 ## 6. Design System:
 - **Elementos Fundamentais Definidos (com base nos mockups de alta fidelidade):**
@@ -130,7 +125,7 @@ Cart Page:
 
 ## 8. Especificações:
 - Documentação detalhada de componentes (estados: hover, active, focus, disabled; interações) e estilos será mantida no Figma e/ou em um guia de estilo complementar.
-- 
+
 - **Guia de estilo detalhado inclui:**
     - **Tipografia:**
         - **Fonte Principal para Títulos de Alto Impacto (Login):**
