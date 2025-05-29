@@ -79,8 +79,8 @@ Home Page:
 Login Page:
 [![cart page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/03_login_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
 
-Cart Page:
-[![login page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/02_cart_page.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
+Game info Page:
+[![login page](https://github.com/Team-Git-AI/bagaceira-games-store-ui/blob/main/src/img/02_game_info.png?raw=true)](https://github.com/Team-Git-AI/bagaceira-games-store-ui)
 
 ## 6. Design System:
 - **Elementos Fundamentais Definidos (com base nos mockups de alta fidelidade):**
