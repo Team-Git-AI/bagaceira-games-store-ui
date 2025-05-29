@@ -1,5 +1,13 @@
-# Bagaceira Games - Projeto de Interface e Usabilidade
+[![made Language {generic badge}](https://img.shields.io/badge/Made%20with-FIGMA%20-8A2BE2)](https://github.com/Team-Git-AI/bagaceira-games-store-ui/)
+[![create date](https://badges.pufler.dev/created/Team-Git-AI/bagaceira-games-store-ui?color=8A2BE2)](https://github.com/Team-Git-AI/bagaceira-games-store-ui/)
+[![last update date](https://badges.pufler.dev/Updated/Team-Git-AI/bagaceira-games-store-ui?color=8A2BE2)](https://github.com/Team-Git-AI/bagaceira-games-store-ui/)
 
+[![contributors](https://img.shields.io/github/contributors/alanmugiwara/login-system-c?color=8A2BE2)](https://github.com/Team-Git-AI/bagaceira-games-store-ui/)
+[![issues counter](https://img.shields.io/github/issues/alanmugiwara/login-system-c?color=8A2BE2)](https://github.com/Team-Git-AI/bagaceira-games-store-ui/)
+[![repo size](https://img.shields.io/github/repo-size/alanmugiwara/login-system-c?color=8A2BE2)](https://github.com/Team-Git-AI/bagaceira-games-store-ui/)
+[![directory size](https://img.shields.io/github/directory-file-count/alanmugiwara/login-system-c?color=8A2BE2)](https://github.com/Team-Git-AI/bagaceira-games-store-ui/)
+
+# Bagaceira Games - Projeto de Interface e Usabilidade
 Este repositório documenta o desenvolvimento do projeto "Bagaceira Games", um e-commerce focado no público gamer, como parte da disciplina de Interface e Usabilidade.
 
 ## 1. Objetos de pesquisa:
@@ -18,6 +26,7 @@ Este repositório documenta o desenvolvimento do projeto "Bagaceira Games", um e
     - Visualização de ofertas e jogos gratuitos (seção "Jogos grátis" na home).
     - Seção de perfil do usuário (histórico de compras, dados pessoais).
     - Seleção de diferentes edições do jogo (como visto na página do jogo Red Dead Redemption 2 com  versões "Standard Edition", "Ultimate Edition").
+    - 
 - **Requisitos Não Funcionais:**
     - Interface intuitiva e responsiva.
     - Design visualmente atraente e alinhado à estética gamer (tema predominantemente escuro, cores vibrantes como roxo e rosa, fontes com apelo pixelado/moderno, como visto nos mockups).
@@ -51,13 +60,26 @@ Este repositório documenta o desenvolvimento do projeto "Bagaceira Games", um e
     - **Adicionar à Lista de Desejos:** Usuário na página de produto -> Clica em "Favoritar" (botão com ícone de adição).
 
 ## 5. Wireframes:
-- Wireframes de baixa/média fidelidade foram criados no Figma para as telas principais, evoluindo para os mockups de alta fidelidade apresentados.
+- Wireframes de alta fidelidade foram criados no Figma para as telas principais, evoluindo para os mockups de alta fidelidade apresentados.
     - **Home Page:** Estrutura com banner principal ("Bagaceira Games"), seções de destaque (cards de jogos em fileiras de 4 itens, como "Os estourados do momento com desconto no talo!", "Recomendados para você", "Jogos grátis") e navegação principal (implícita no header). Sidebar direita com "Best of 2025".
     - **Página de Produto (Red Dead Redemption 2):** Layout com galeria de mídia à esquerda (com navegação por setas), informações do jogo à direita (título, preço original/promocional, botões de ação "Adicionar ao carrinho" e "Favoritos"), seguido por seções como "Versões" (com cards para Standard e Ultimate Edition), "Siga-nos", "Avaliação" (com barras de progresso), "Requisitos".
     - **Página de Login:** Layout centralizado com logo "Bagaceira Games Pixelado", título "Boas Vindas" representando linguagem inclusiva, subtítulo "Efetue seu Login", botões de login social (Google, Facebook, Steam, PlayStation, Xbox) em uma linha, campos de formulário para "Email ou Usuário" e "Senha" com ícones, checkbox "Mantenha-me conectado", botão "LOGAR" e links para "Esqueci a senha", "Termos de Serviço", "Política de Privacidade", "Política de Reembolso da Loja".
 - Elementos de interface incluídos: botões (primários, secundários, sociais), campos de formulário com ícones, cards de produto com tags de desconto, navegação (principal, secundária, breadcrumbs implícitos), modais (implícito para checkout), carrossel de mídia, checkboxes, barras de progresso para avaliações.
 - Princípios de hierarquia visual aplicados para guiar o usuário (tamanhos de fonte, cores de destaque, posicionamento).
 - Consistência mantida entre as telas.
+  
+## Página do projeto no FIGMA Community:
+[![Figma badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1509320259054211679)
+
+
+## Wireframe: Home Page
+
+
+## Wireframe: Login Page
+
+
+## Wireframe: Cart Page
+
 
 ## 6. Design System:
 - **Elementos Fundamentais Definidos (com base nos mockups de alta fidelidade):**
@@ -102,7 +124,8 @@ Este repositório documenta o desenvolvimento do projeto "Bagaceira Games", um e
 
 ## 8. Especificações:
 - Documentação detalhada de componentes (estados: hover, active, focus, disabled; interações) e estilos será mantida no Figma e/ou em um guia de estilo complementar.
-- **Guia de estilo detalhado incluirá:**
+- 
+- **Guia de estilo detalhado inclui:**
     - **Tipografia:**
         - **Fonte Principal para Títulos de Alto Impacto (Login):**
             - 'Black Ops One', Regular
